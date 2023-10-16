@@ -3,7 +3,7 @@ _# ANICEF 프로젝트
 최종본
 
 ANICEF 프로젝트 
-<img src='[https://user-images.githubusercontent.com/106459550/197949956-724d3ac4-1950-4421-b231-8d832b5151d3.png](https://github.com/anicef/ANICEF_99/blob/main/WebContent/images/main.png)'>
+<img src='WebContent/images/main.png'>
 
 최근 유기 동물이 많아져 사회문제로 여겨지고 있습니다. 
 
