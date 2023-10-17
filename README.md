@@ -52,4 +52,4 @@ ANICEF 프로젝트
 
 </ul>
 <hr>
-<h4><a href="https://docs.google.com/viewer?url=https://github.com/Chanan-Park/OhSherlockProject/files/9869805/2.pdf">:open_file_folder: 프레젠테이션 자료</a></h4>_
+<h4><a href="https://drive.google.com/file/d/1CVOtdDQUvA9Ulaka5nCGQrNWKKjiJ76z/view?usp=sharing">:open_file_folder: 프레젠테이션 자료</a></h4>_
